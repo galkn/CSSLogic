@@ -1,6 +1,6 @@
 # CSSLogic v0.1.0
 
-CSSLogic is a JavaScript plugin that lets you use variables in your CSS files, without having to compile anything or go through any server-side process.
+CSSLogic is a jQuery plugin that lets you use variables in your CSS files, without having to compile anything or go through any server-side process.
 
 ## Your CSS will look like this
 
